@@ -4,3 +4,4 @@ The purpose of this repository is to re-implement the models of research papers 
 | Paper                                                                    | CV            | RL          | Graph       |Generative AI| Multimodal  | Time-series |Remote Sensing|
 | -------------------------------------------------------------------------| ------------- |-------------|-------------|-------------|-------------|-------------|--------------|
 |  Denoising Diffusion Probabilistic Models                                | :heavy_check_mark:             |             |             | :heavy_check_mark:            |             |             |              |
+| Generative Adversial Networks                                | :heavy_check_mark:             |             |             | :heavy_check_mark:            |             |             |              |
