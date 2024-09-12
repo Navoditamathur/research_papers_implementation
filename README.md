@@ -5,3 +5,4 @@ The purpose of this repository is to re-implement the models of research papers 
 | -------------------------------------------------------------------------| ------------- |-------------|-------------|-------------|-------------|-------------|--------------|
 |  Denoising Diffusion Probabilistic Models                                | :heavy_check_mark:             |             |             | :heavy_check_mark:            |             |             |              |
 | Generative Adversial Networks                                | :heavy_check_mark:             |             |             | :heavy_check_mark:            |             |             |              |
+| (Contrastive Language-Image Pretraining                               | :heavy_check_mark:             |             |             |            |  :heavy_check_mark:            |             |              |
